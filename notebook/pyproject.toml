@@ -6,6 +6,9 @@ authors = ["shinyorke <spirits.is.my.rader@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pandas = "^1.4.4"
+jupyterlab = "^3.4.7"
+plotly = "^5.10.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
