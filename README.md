@@ -37,6 +37,7 @@ $ source .venv/bin/activate
 ## code
 
 - [打撃データ分析サンプル(notebook/batting.ipynb)](./notebook/batting.ipynb)
+- [投球データ分析サンプル(notebook/pitching.ipynb)](./notebook/pitching.ipynb)
 
 ## sample data
 
