@@ -41,8 +41,8 @@ $ source .venv/bin/activate
 
 ## sample data
 
-- [大谷翔平さんの打球データ（2022/04/07 - 2022/09/17）](./notebook//dataset/20220919_baseball-savant-shohei-ohtani-atbat.csv)
-- [大谷翔平さんの投球データ（2022/04/07 - 2022/09/17）](./notebook//dataset/20220919_baseball-savant-shohei-ohtani-pitch.csv)
+- [大谷翔平さんの打球データ（2022/04/07 - 2022/10/05）](./notebook/dataset/20221005_baseball-savant-shohei-ohtani-atbat.csv)
+- [大谷翔平さんの投球データ（2022/04/07 - 2022/10/05）](./notebook/dataset/20221005_baseball-savant-shohei-ohtani-pitch.csv)
 
 ## データ項目について
 
